@@ -482,6 +482,10 @@
           "name": "SUDO_PASSWORD"
         },
         {
+          "label": "FILE__PASSWORD",
+          "name": "FILE__PASSWORD"
+        },
+        {
           "default": "example.my.domain",
           "label": "PROXY_DOMAIN",
           "name": "PROXY_DOMAIN"
